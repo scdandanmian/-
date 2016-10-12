@@ -1,6 +1,7 @@
 ##自己用的学习资源
 ###社区
 [简书](http://www.jianshu.com)</br>
+![](http://ww4.sinaimg.cn/bmiddle/aa397b7fjw1dzplsgpdw5j.jpg)
 [github上超全的程序员资料](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-zh.md)</br>
 ###在线学习资源
 [慕课网](http://www.imooc.com/course/list)</br>

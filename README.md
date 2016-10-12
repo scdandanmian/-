@@ -1,7 +1,7 @@
 ##自己用的学习资源
 ![](https://pixabay.com/static/uploads/photo/2014/12/15/17/17/sailing-boat-569336_640.jpg)</br>
 ###社区
-[简书](http://www.jianshu.com)</br>
+-[简书](http://www.jianshu.com)</br>
 [github上超全的程序员资料](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-zh.md)</br>
 ###在线学习资源
 [慕课网](http://www.imooc.com/course/list)</br>

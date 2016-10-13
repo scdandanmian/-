@@ -14,3 +14,5 @@
 [ 9秒社区,游戏源码社区](http://www.9miao.com)</br>
 ###cocos2d-x
 [github比较全的链接](https://github.com/KeepSilenceQP/Cocos2d-xData)</br>
+###IDE使用技巧
+[VS2013快捷键](http://www.cnblogs.com/xionglee/articles/5494043.html)</br>

@@ -12,6 +12,7 @@
 [黑马优客](http://www.hmuk.cn/Path/course/id/3648.html)</br>
 [教室网](http://www.jiao4.com/cocos2d/3/5513.html)</br>
 [多学旁](http://www.dxpang.com/yxkf/Cocos2d/103.html)</br>
+[百度云](http://www.bdsola.com/)</br>
 ###源码和UI资源
 [泰斗社区,游戏源码与UI资源分享社区](http://www.taidous.com)</br>
 [ 9秒社区,游戏源码社区](http://www.9miao.com)</br>

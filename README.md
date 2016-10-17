@@ -21,6 +21,8 @@
 [优质it资源分享](http://www.itziyuan.top/youxi_325)</br>
 [2D_UI资源分享](http://opengameart.org/)</br>
 [声音资源分享](http://www.freesound.org/)</br>
+[2D_UI资源分享](http://usui.moo.jp/rpg_tukuru.html)</br>
+[githup源码](https://github.com/ouzhigang/OzgGameRPG)</br>
 ###cocos2d-x
 [github比较全的链接](https://github.com/KeepSilenceQP/Cocos2d-xData)</br>
 [cocos2d-x组件介绍](http://cocos2d-x.org/docs/programmers-guide/basic_concepts/)</br>

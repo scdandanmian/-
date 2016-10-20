@@ -35,5 +35,6 @@
 ###IDE使用技巧
 [VS2013快捷键](http://www.cnblogs.com/xionglee/articles/5494043.html)</br>
 [Xcode快捷键](http://www.cppblog.com/brucejini/archive/2010/12/24/137367.html)</br>
+[maxe快捷键](http://www.jianshu.com/p/de5ddb80f074)</br>
 ###IDE下载链接
 [ndk链接](http://www.androiddevtools.cn/)</br>

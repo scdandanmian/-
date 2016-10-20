@@ -25,7 +25,7 @@
 [2D_UI资源分享](http://usui.moo.jp/rpg_tukuru.html)</br>
 [githupCocos2dx源码](https://github.com/ouzhigang/OzgGameRPG)</br>
 [Android开源项目](https://github.com/crazier9527?language=java&tab=stars)</br>
-[Android开源项目]http://www.jianshu.com/p/c199dce0b4b8)</br>
+[Android开源项目](http://www.jianshu.com/p/c199dce0b4b8)</br>
 ###cocos2d-x
 [github比较全的链接](https://github.com/KeepSilenceQP/Cocos2d-xData)</br>
 [cocos2d-x组件介绍](http://cocos2d-x.org/docs/programmers-guide/basic_concepts/)</br>

@@ -19,7 +19,8 @@
 [百度云](http://www.bdsola.com/)</br>
 [泰课在线](http://www.taikr.com/)</br>
 [可汗学院](https://www.khanacademy.or)</br>
-###源码和UI资源
+[守望者](http://www.watchmen.cn/video/algorithm/)</br>
+###源码和UI资源</br>
 [泰斗社区,游戏源码与UI资源分享社区](http://www.taidous.com)</br>
 [ 9秒社区,游戏源码社区](http://www.9miao.com)</br>
 [优质it资源分享](http://www.itziyuan.top/youxi_325)</br>

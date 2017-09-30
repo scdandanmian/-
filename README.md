@@ -22,6 +22,7 @@
  [守望者](http://www.watchmen.cn/video/algorithm/)</br>
  ### 优秀的个人博客
  [风云的个人博客](https://blog.codingnow.com/)</br>
+ [国外的博客](http://www.redblobgames.com/)</br>
  ### 源码和UI资源</br>
  [泰斗社区,游戏源码与UI资源分享社区](http://www.taidous.com)</br>
  [ 9秒社区,游戏源码社区](http://www.9miao.com)</br>

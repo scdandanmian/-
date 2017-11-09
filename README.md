@@ -46,3 +46,5 @@
  [max快捷键](http://www.jianshu.com/p/de5ddb80f074)</br>
  ### IDE下载链接
  [ndk链接](http://www.androiddevtools.cn/)</br>
+ ### shader资料
+ [shader作品网站](https://www.shadertoy.com/view/Md3XRM)

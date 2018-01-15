@@ -21,6 +21,7 @@
  [泰课在线](http://www.taikr.com/)</br>
  [可汗学院](https://www.khanacademy.or)</br>
  [守望者](http://www.watchmen.cn/video/algorithm/)</br>
+ [知网](http://www.cnki.net/)</br>
  ### 优秀的个人博客
  [风云的个人博客](https://blog.codingnow.com/)</br>
  [国外的博客](http://www.redblobgames.com/)</br>

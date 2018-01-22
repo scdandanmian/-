@@ -23,8 +23,8 @@
  [可汗学院](https://www.khanacademy.or)</br>
  [守望者](http://www.watchmen.cn/video/algorithm/)</br>
  [知网](http://www.cnki.net/)</br>
-  ### 在线文档学习资源
-  [python3书籍](http://python3-cookbook.readthedocs.io/zh_CN/latest/)</br>
+ ### 在线文档学习资源
+ [python3书籍](http://python3-cookbook.readthedocs.io/zh_CN/latest/)</br>
   
  ### 优秀的个人博客
  [风云的个人博客](https://blog.codingnow.com/)</br>

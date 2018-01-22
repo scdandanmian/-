@@ -8,7 +8,8 @@
  [书](https://github.com/search?utf8=%E2%9C%93&q=books&type=Repositories&ref=searchresults)</br>
  [CSDN](http://edu.csdn.net/)</br>
  [centOS](http://www.centoscn.com/CentosSoft/iso/2017/1119/9264.html)</br>
- ### 在线学习资源
+ [开源中国](http://www.oschina.net/project/lang/25/python)</br>
+ ### 在线视频学习资源
  [慕课网](http://www.imooc.com/course/list)</br>
  [极客学院](http://www.jikexueyuan.com)</br>
  [网易云学院](http://study.163.com)</br>
@@ -22,6 +23,9 @@
  [可汗学院](https://www.khanacademy.or)</br>
  [守望者](http://www.watchmen.cn/video/algorithm/)</br>
  [知网](http://www.cnki.net/)</br>
+  ### 在线文档学习资源
+  [python3书籍](http://python3-cookbook.readthedocs.io/zh_CN/latest/)</br>
+  
  ### 优秀的个人博客
  [风云的个人博客](https://blog.codingnow.com/)</br>
  [国外的博客](http://www.redblobgames.com/)</br>

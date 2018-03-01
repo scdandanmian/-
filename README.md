@@ -3,6 +3,7 @@
  ### 官方网站
  [cocos2dx](http://www.cocos2d-x.org/)</br>
  ### 社区
+ [indienova](https://www.indienova.com)<br>
  [简书](http://www.jianshu.com)</br>
  [github上超全的程序员资料](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-zh.md)</br>
  [书](https://github.com/search?utf8=%E2%9C%93&q=books&type=Repositories&ref=searchresults)</br>

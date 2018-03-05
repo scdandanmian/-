@@ -5,6 +5,7 @@
  ### 社区
  [indienova](https://www.indienova.com)<br>
  [简书](http://www.jianshu.com)</br>
+ [idata 知网](https://user.cn-ki.net/usercenter/)</br>
  [github上超全的程序员资料](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-zh.md)</br>
  [书](https://github.com/search?utf8=%E2%9C%93&q=books&type=Repositories&ref=searchresults)</br>
  [CSDN](http://edu.csdn.net/)</br>

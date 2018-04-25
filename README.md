@@ -13,7 +13,7 @@
  [开源中国](http://www.oschina.net/project/lang/25/python)</br>
  ### 在线视频学习资源
  [慕课网](http://www.imooc.com/course/list)</br>
- [mooc]https://www.icourse163.org)</br>
+ [mooc](https://www.icourse163.org)</br>
  [极客学院](http://www.jikexueyuan.com)</br>
  [网易云学院](http://study.163.com)</br>
  [网易公开课](http://open.163.com)</br>

@@ -62,6 +62,6 @@
  [ndk链接](http://www.androiddevtools.cn/)</br>
  ### shader资料
  [shader作品网站](https://www.shadertoy.com/view/Md3XRM)</br>
- [openGL学习网站](https://learnopengl-cn.github.io/01%20Getting%20started/01%20OpenGL/)
+ [openGL学习网站](https://learnopengl-cn.github.io/01%20Getting%20started/01%20OpenGL/)</br>
  ### 微信开发资料
- ［微信开发流程］（http://forum.cocos.com/t/cocos-creator/60801）</br>
+ ［微信开发流程］（http://forum.cocos.com/t/cocos-creator/60801)</br>

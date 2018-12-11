@@ -26,6 +26,7 @@
  [可汗学院](https://www.khanacademy.or)</br>
  [守望者](http://www.watchmen.cn/video/algorithm/)</br>
  [知网](http://www.cnki.net/)</br>
+ [虎课网](https://huke88.com/)</br>
  ### 在线文档学习资源
  [python3书籍](http://python3-cookbook.readthedocs.io/zh_CN/latest/)</br>
  [gitbook](https://legacy.gitbook.com/@wohugb)</br>

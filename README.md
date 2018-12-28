@@ -30,7 +30,8 @@
  ### 在线文档学习资源
  [python3书籍](http://python3-cookbook.readthedocs.io/zh_CN/latest/)</br>
  [gitbook](https://legacy.gitbook.com/@wohugb)</br>
-  
+ ### 搜索学习资源
+  [磁力猫](https://www.cilimao.cc/)</br>
  ### 优秀的个人博客
  [风云的个人博客](https://blog.codingnow.com/)</br>
  [国外的博客](http://www.redblobgames.com/)</br>

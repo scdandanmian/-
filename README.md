@@ -66,6 +66,8 @@
  ### shader资料
  [shader作品网站](https://www.shadertoy.com/view/Md3XRM)</br>
  [shader个人作品]( http://blog.sina.com.cn/s/articlelist_2312702844_6_1.html)</br>
+ [shader教程](  https://thebookofshaders.com/00/?lan=ch)</br>
+
 
  [openGL学习网站](https://learnopengl-cn.github.io/01%20Getting%20started/01%20OpenGL/)</br>
  ### 微信开发资料
